@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Frontend Developer & DSA Enthusiast</h3>
 
 
-- 🔭 I’m currently working on **Full Stack**
+- 🔭 I’m currently working on **Full Stack Development**
 
 - 🌱 I’m currently learning **React**
 
